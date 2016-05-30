@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Exam6March\IncreasingAbsoluteDifferences\bin\Debug\IncreasingAbsoluteDifferences.exe.config
+D:\Orlinovski Tapotii\Exam6March\IncreasingAbsoluteDifferences\bin\Debug\IncreasingAbsoluteDifferences.exe
+D:\Orlinovski Tapotii\Exam6March\IncreasingAbsoluteDifferences\bin\Debug\IncreasingAbsoluteDifferences.pdb
+D:\Orlinovski Tapotii\Exam6March\IncreasingAbsoluteDifferences\obj\Debug\02.IncreasingAbsoluteDifferences.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Exam6March\IncreasingAbsoluteDifferences\obj\Debug\IncreasingAbsoluteDifferences.exe
+D:\Orlinovski Tapotii\Exam6March\IncreasingAbsoluteDifferences\obj\Debug\IncreasingAbsoluteDifferences.pdb

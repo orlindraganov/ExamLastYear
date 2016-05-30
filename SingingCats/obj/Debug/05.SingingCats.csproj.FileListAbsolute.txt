@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Exam6March\SingingCats\bin\Debug\SingingCats.exe.config
+D:\Orlinovski Tapotii\Exam6March\SingingCats\obj\Debug\05.SingingCats.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Exam6March\SingingCats\bin\Debug\SingingCats.exe
+D:\Orlinovski Tapotii\Exam6March\SingingCats\bin\Debug\SingingCats.pdb
+D:\Orlinovski Tapotii\Exam6March\SingingCats\obj\Debug\SingingCats.exe
+D:\Orlinovski Tapotii\Exam6March\SingingCats\obj\Debug\SingingCats.pdb

@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\Exam6March\BitShiftMatrix\bin\Debug\BitShiftMatrix.exe.config
+D:\Orlinovski Tapotii\Exam6March\BitShiftMatrix\bin\Debug\BitShiftMatrix.exe
+D:\Orlinovski Tapotii\Exam6March\BitShiftMatrix\bin\Debug\BitShiftMatrix.pdb
+D:\Orlinovski Tapotii\Exam6March\BitShiftMatrix\obj\Debug\BitShiftMatrix.exe
+D:\Orlinovski Tapotii\Exam6March\BitShiftMatrix\obj\Debug\BitShiftMatrix.pdb

@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Exam6March\CATastrophe\bin\Debug\CATastrophe.exe.config
+D:\Orlinovski Tapotii\Exam6March\CATastrophe\bin\Debug\CATastrophe.exe
+D:\Orlinovski Tapotii\Exam6March\CATastrophe\bin\Debug\CATastrophe.pdb
+D:\Orlinovski Tapotii\Exam6March\CATastrophe\obj\Debug\05.CATastrophe.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Exam6March\CATastrophe\obj\Debug\CATastrophe.exe
+D:\Orlinovski Tapotii\Exam6March\CATastrophe\obj\Debug\CATastrophe.pdb
