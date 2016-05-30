@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SingingCats", "SingingCa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CATastrophe", "CATastrophe\04.CATastrophe.csproj", "{B71A596A-58FC-45A4-AABC-6EEFD7CCFD1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Konspiration", "Konspiration\06.Konspiration.csproj", "{81484D3A-B4E3-4210-9358-540B15850539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.BadCat", "BadCat\07.BadCat.csproj", "{0BE410D0-6BE4-4827-A4AF-25CC18C0C12A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{B71A596A-58FC-45A4-AABC-6EEFD7CCFD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B71A596A-58FC-45A4-AABC-6EEFD7CCFD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B71A596A-58FC-45A4-AABC-6EEFD7CCFD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81484D3A-B4E3-4210-9358-540B15850539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81484D3A-B4E3-4210-9358-540B15850539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81484D3A-B4E3-4210-9358-540B15850539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81484D3A-B4E3-4210-9358-540B15850539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE410D0-6BE4-4827-A4AF-25CC18C0C12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE410D0-6BE4-4827-A4AF-25CC18C0C12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE410D0-6BE4-4827-A4AF-25CC18C0C12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE410D0-6BE4-4827-A4AF-25CC18C0C12A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

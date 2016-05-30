@@ -1,3 +1,6 @@
 D:\Orlinovski Tapotii\Exam6March\CATastrophe\bin\Debug\CATastrophe.exe.config
 D:\Orlinovski Tapotii\Exam6March\CATastrophe\obj\Debug\CATastrophe.exe
 D:\Orlinovski Tapotii\Exam6March\CATastrophe\obj\Debug\CATastrophe.pdb
+D:\Orlin\CSharpHomeworks\ExamLastYear\CATastrophe\bin\Debug\CATastrophe.exe.config
+D:\Orlin\CSharpHomeworks\ExamLastYear\CATastrophe\obj\Debug\CATastrophe.exe
+D:\Orlin\CSharpHomeworks\ExamLastYear\CATastrophe\obj\Debug\CATastrophe.pdb

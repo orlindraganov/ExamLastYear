@@ -4,3 +4,6 @@ D:\Orlinovski Tapotii\Exam6March\DeCatCoding\bin\Debug\DeCatCoding.pdb
 D:\Orlinovski Tapotii\Exam6March\DeCatCoding\obj\Debug\01.DeCatCoding.csprojResolveAssemblyReference.cache
 D:\Orlinovski Tapotii\Exam6March\DeCatCoding\obj\Debug\DeCatCoding.exe
 D:\Orlinovski Tapotii\Exam6March\DeCatCoding\obj\Debug\DeCatCoding.pdb
+D:\Orlin\CSharpHomeworks\ExamLastYear\DeCatCoding\bin\Debug\DeCatCoding.exe.config
+D:\Orlin\CSharpHomeworks\ExamLastYear\DeCatCoding\obj\Debug\DeCatCoding.exe
+D:\Orlin\CSharpHomeworks\ExamLastYear\DeCatCoding\obj\Debug\DeCatCoding.pdb

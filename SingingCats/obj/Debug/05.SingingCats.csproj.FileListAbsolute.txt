@@ -4,3 +4,6 @@ D:\Orlinovski Tapotii\Exam6March\SingingCats\bin\Debug\SingingCats.exe
 D:\Orlinovski Tapotii\Exam6March\SingingCats\bin\Debug\SingingCats.pdb
 D:\Orlinovski Tapotii\Exam6March\SingingCats\obj\Debug\SingingCats.exe
 D:\Orlinovski Tapotii\Exam6March\SingingCats\obj\Debug\SingingCats.pdb
+D:\Orlin\CSharpHomeworks\ExamLastYear\SingingCats\bin\Debug\SingingCats.exe.config
+D:\Orlin\CSharpHomeworks\ExamLastYear\SingingCats\obj\Debug\SingingCats.exe
+D:\Orlin\CSharpHomeworks\ExamLastYear\SingingCats\obj\Debug\SingingCats.pdb
